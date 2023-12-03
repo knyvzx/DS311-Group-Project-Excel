@@ -1,4 +1,4 @@
-# DS311-Group-Project-Excel
+# DS311-Group-Project-Excel:
  **Team member**: Kenny Veloso, Jacquelyn Chavez, Kelly Dam, Seamus Johnson, Jessica
 
 # Dataset 
